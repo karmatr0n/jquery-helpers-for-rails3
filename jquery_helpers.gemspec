@@ -16,5 +16,5 @@ Gem::Specification.new do |s|
     "lib/generators/jquery_helpers/USAGE",
     "jquery_helpers.gemspec"
   ]
-  s.add_dependency 'rails', '3.0.0.beta'
+  s.add_dependency 'rails', '>=3.0.0.beta'
 end
